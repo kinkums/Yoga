@@ -1,0 +1,46 @@
+{
+  "categorization": {
+    "type": "APPLICATION",
+    "category": "Health & Fitness"
+  },
+  "description": {
+    "texts": {
+      "title": "Yoga for Life",
+      "features": [
+        "Yogasanas",
+        "Pranayama"
+      ],
+      "short-description": "Yoga App for maintaining health, fitness and good lifestyle",
+      "full-description": "A Yoga App that has the details on Asanas, Stretches before performing Asanas, Pranayama, Mudras, Bandhas and Kriyas. It has the cultural, spiritual and therapeutical benefits of each of the  Asanas. Precautions required while performing Asanas. Mind maps on Yoga, Ashtanga Yoga and Mukhya Upanishads. Prayers to recite while performing Asanas and SuryaNamaskar. Four Pathways of Yoga and stories based on bhagavad gita and yogic lore. Benefits of Chanting Omkara and Daily routine for performing Asanas.",
+      "keywords": "Yoga, Asanas, Pranayama, Yogic stories, Mudras, Bandhas, Kriyas, Vivekananda, Loosening exercises, mind maps, prayers, raja yoga, karma yoga, bhakti yoga, jnana yoga, gyana yoga,",
+      "recent-changes": "",
+      "privacy-policy": "",
+      "eula": ""
+    },
+    "images": {
+      "screenshots": [
+        "Padma.jpg",
+        "Trikona.jpg",
+        "Veera2.jpg"
+      ],
+      "app-icon-small": "Padmasana - small.jpg",
+      "app-icon": "Padmasana - small - Copy.jpg",
+      "small-promo": "",
+      "large-promo": ""
+    },
+    "videos": {
+      "video-url": ""
+    }
+  },
+  "packages": {
+    "apk-file": "../../../../apps/cordova_project-x86.android.20170315060055.apk",
+    "zip-xdk-compliant": true,
+    "zip-file": "../../../../apps/yoga-positions.cordova.crosswalk.201703155919.zip",
+    "secondary-apk-file": "../../../../apps/cordova_project-armv7.android.20170315060107.apk"
+  },
+  "support": {
+    "email": "kinkums@gmail.com",
+    "website": ""
+  },
+  "testing-instructions": ""
+}
